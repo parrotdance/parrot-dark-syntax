@@ -2,12 +2,14 @@
   "name": "parrot-dark-syntax",
   "theme": "syntax",
   "version": "1.0.0",
+  "author": "ParroT <parrotdance95@gmail.com>",
   "description": "A syntax theme which simulate JetJet-theme in VSCode. Enjoy it !",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "parrot"
   ],
-  "repository": "https://github.com/atom/parrot-dark-syntax",
+  "repository": "https://github.com/parrotdance/parrot-dark-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
