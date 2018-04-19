@@ -1,0 +1,15 @@
+{
+  "name": "parrot-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A syntax theme which simulate JetJet-theme in VSCode. Enjoy it !",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/parrot-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
