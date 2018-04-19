@@ -3,11 +3,13 @@
   "theme": "syntax",
   "version": "1.1.1",
   "author": "ParroT <parrotdance95@gmail.com>",
-  "description": "A syntax theme which simulate JetJet-theme in VSCode. Enjoy it !",
+  "description": "A syntax theme which simulate JetJet-theme in VSCode.",
   "keywords": [
     "syntax",
     "theme",
-    "parrot"
+    "parrot",
+    "jetjet",
+    "vscode"
   ],
   "repository": "https://github.com/parrotdance/parrot-dark-syntax.git",
   "license": "MIT",
